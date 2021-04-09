@@ -9,9 +9,7 @@ This project is made thanks to the Youtuber [JavaScriptMastery](https://www.yout
 ---
 
 Deployed. Ready for new features, such as:
-> JWT Login
-> OAuth Login
-> Likes per person
+
 
 ## Getting Started 🛸
 
