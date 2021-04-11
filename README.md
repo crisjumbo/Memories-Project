@@ -8,8 +8,9 @@ This project is made thanks to the Youtuber [JavaScriptMastery](https://www.yout
 
 ---
 
-**Frontend**Deployed with Netlify: https://memorias.netlify.app/
-**Backend**Deployed with Heroky: Private
+**Frontend** with Netlify: https://memorias.netlify.app/
+
+**Backend** with Heroky: Private
 
 
 ## Getting Started 🛸
