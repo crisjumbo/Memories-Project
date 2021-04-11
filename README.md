@@ -1,6 +1,6 @@
 # Memories Platform 👽
 
-A simple CRUD application developed using the MERN stack. The basic idea is that you as user can post, edit, delete memories and also this can be liked. 
+A simple CRUD application developed using the MERN stack. The basic idea is that you as user can post, edit, delete memories. Also, this can be liked. 
 
 This project is made thanks to the Youtuber [JavaScriptMastery](https://www.youtube.com/c/JavaScriptMastery)
 
@@ -8,7 +8,7 @@ This project is made thanks to the Youtuber [JavaScriptMastery](https://www.yout
 
 ---
 
-**Frontend** with Netlify: https://memorias.netlify.app/
+**Frontend** with Netlify: [Memories Website](https://memorias.netlify.app/)
 
 **Backend** with Heroky: Private
 
@@ -86,4 +86,4 @@ Memories v0.1.35
 
 ## Collaborators
 ---
-Empty! You want to collaborate. Feel free to make a PR...
+Empty! You want to collaborate. Feel free to make a Fork and then a PR...
