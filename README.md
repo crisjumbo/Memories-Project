@@ -1,4 +1,4 @@
-# Memories Platform 👽
+# Memories Platform 
 
 A simple CRUD application developed using the MERN stack. The basic idea is that you as user can post, edit, delete memories. Also, this can be liked. 
 
